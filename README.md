@@ -35,7 +35,7 @@ Setup
 
 1. Clone the repository:
 
-git clone https://github.com/oldinn/oldinn-trading-bot.git
+git clone https://github.com/malone0323/Oldin_Tradingbot-main.git
 cd oldinn-trading-bot
 
 
@@ -115,6 +115,5 @@ This project is licensed under the MIT License.
 📧 Contact
 
 For support and inquiries:
-📩 Whatsapp: https://wa.me/2349132440810
 💬 Discord: Join Our Community
 
